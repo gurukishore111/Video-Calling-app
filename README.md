@@ -1,7 +1,7 @@
 ## Video-Calling-app
 
 
-### Step to be follow to run 🧩: 
+### Steps to run this app 🧩: 
  
  ```npm install```
  ```npm i -g peer```
