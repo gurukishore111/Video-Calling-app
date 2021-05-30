@@ -3,6 +3,6 @@
 
 ### Steps to run this app 🧩: 
  
- ```npm install```
- ```npm i -g peer```
- ```peerjs --port 3000```
+ - ```npm install```
+ - ```npm i -g peer```
+ - ```peerjs --port 3000```
